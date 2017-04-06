@@ -1,0 +1,43 @@
+/*
+Theme Name: Zerif PRO Child
+Author: Roberto Perata
+Author URI: https://themeisle.com
+Description: Zerif PRO is a modern responsive WordPress Theme. It's perfect for web agencies, digital studios, corporate, product showcase, personal and business portfolio.
+Template: zerif-pro
+Version: 1.8.4.0
+License: GNU General Public License version 2
+Text Domain: zerif-pro-child
+Tags: black, gray, red, white, one-column, two-columns, right-sidebar, responsive-layout, custom-background, custom-menu, editor-style, featured-images, threaded-comments, translation-ready
+*/
+
+ul#shipping_method label{
+  display: inline;
+}
+
+.product_list_widget h3{
+    margin-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.product_list_widget .feedback-box{
+  position: relative;
+}
+
+.product_list_widget .message p{
+    line-height: 1.3em;
+}
+
+
+
+.product_list_widget .message img{
+  position: absolute;
+  margin: auto;
+  bottom: 15px;
+  left: 0;
+  right: 0;
+}
+
+.product_list_widget .feedback-box{
+    height: 380px;
+}
